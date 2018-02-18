@@ -1,0 +1,14 @@
+{
+  "name": "js-training",
+  "version": "1.0.0",
+  "description": "Javascript best practices and examples",
+  "main": "index.js",
+  "repository": "https://hsynlms@github.com/hsynlms/js-training.git",
+  "author": "Huseyin Elmas",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "run": "node ",
+    "debug": "node --inspect "
+  }
+}
